@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <A0001>
+            <Filename>ResurrectionRemix-M-v5.6.9-20160529-kiwi</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download SlimSaber builds">http://fs1.d-h.st/download/00229/Babf/ResurrectionRemix-M-v5.6.9-20160529-kiwi.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Download SlimSaber changelogs">https://www.androidfilehost.com/?w=files&amp;flid=21888</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest SlimGapps">http://opengapps.org/</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit SlimSaber bacon thread">http://forum.xda-developers.com/honor-5x/development/rom-resurrection-remix-os-t3386555</XDAUrl>
+	</A0001>
+    </Stable>
+</SlimOTA>
