@@ -13,3 +13,7 @@
 # Repository : android/
 - Change No.: 8d3d350 | Title: Track Own DUtils Package | Author: Varun Date 
 
+
+
+# Repozytorium : frameworks/base/ <=====
+# Zmiana Nr.: f22678747e54509def3fa00b20964d5b11bf8281 | Tytuł: Automated nightly translation import | Autor: Akhil Narang
