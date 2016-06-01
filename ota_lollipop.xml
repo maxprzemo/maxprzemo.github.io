@@ -10,7 +10,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Download SlimSaber changelogs">https://www.androidfilehost.com/?w=files&amp;flid=21888</ChangelogUrl>
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -18,7 +18,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit Resurrection Remix kiwi thread">http://forum.xda-developers.com/honor-5x/development/rom-resurrection-remix-os-t3386555</XDAUrl>
+                description="Visit Resurrection Remix Honor 5X thread">http://forum.xda-developers.com/honor-5x/development/rom-resurrection-remix-os-t3386555</XDAUrl>
 	</kiwi>
     </Stable>
 </SlimOTA>
