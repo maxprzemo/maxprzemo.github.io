@@ -12,7 +12,7 @@
                 title="Changelog"
                 description="View ResurrectionRemix Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
             <ChangelogDevUrl
-                id="changelog"
+                id="changelogdev"
                 title="Changelog Honor 5X"
                 description="View Honor 5X builds Changelog">https://github.com/maxprzemo/maxprzemo.github.io/blob/master/Changelog2016-06-01.mkdn</ChangelogDevUrl>
             <GappsUrl
