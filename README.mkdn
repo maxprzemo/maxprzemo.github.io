@@ -1,31 +1,23 @@
 06-01-2016
 ==========
 
-# Repository : android/
-- Change No.: 8d3d350 | Title: Track Own DUtils Package | Author: Varun Date 
-
-
-
-
 -----------------
 #     06-01-2016
 -----------------
 
 Repozytorium : android/ 
 --------------------
-- Zmiana Nr.: 8d3d3501815d6acbe93efd33316efade7b5a570b | Tytuł: Track Own DUtils Package | Autor: Varun Date 
+- Zmiana Nr.: 8d3d3501815d6acbe93efd33316efade7b5a570b 
+ | Tytuł: Track Own DUtils Package | Autor: Varun Date 
 
 Repozytorium : external/DUtils/ 
 --------------------
-- Zmiana Nr.: 2737cf391022aaf1b4e0e4c4f4477f325dcc309d | Tytuł: DUtils: Add app picker as an action (1/2) | Autor: LorDClockaN 
-- Zmiana Nr.: 7bf118fd2a8b51a7dfd2facb0afc00b1f361f736 | Tytuł: Revert "DUI: Use DocumentsProvider API helper methods [2/2]" | Autor: Varun Date 
+- Zmiana Nr.: 2737cf391022aaf1b4e0e4c4f4477f325dcc309d 
+ | Tytuł: DUtils: Add app picker as an action (1/2) | Autor: LorDClockaN 
+- Zmiana Nr.: 7bf118fd2a8b51a7dfd2facb0afc00b1f361f736 
+ | Tytuł: Revert "DUI: Use DocumentsProvider API helper methods [2/2]" | Autor: Varun Date 
 
 Repozytorium : frameworks/base/ 
 --------------------
-- Zmiana Nr.: f22678747e54509def3fa00b20964d5b11bf8281 | Tytuł: Automated nightly translation import | Autor: Akhil Narang 
-- Zmiana Nr.: 295f1bcdac9da6fe310cdb07d9ee503585a96ac1 | Tytuł: Custom header : Add new Get Resurrected smart layer header - Header accent matching with the installed theme accent color - Edit header titles - Fix header sizes | Autor: westcripp 
-- Zmiana Nr.: 4def768997b64f565fd2f63979d91c104d28f7ab | Tytuł: Core: Fix OOB | Autor: Michael W 
-- Zmiana Nr.: bbb71319cda8b04f9bfe1a0cbedc8495e769ec42 | Tytuł: am: clear state for every protected app invocation. | Autor: Adnan Begovic 
-- Zmiana Nr.: 93c97123a6f20cf878af6dd5de31c75cd412d46a | Tytuł: services: Kick off to CMSystemServer for external service init. | Autor: Adnan Begovic 
-- Zmiana Nr.: 1e275600847a26eb89e178ba1b70f15e1e397b66 | Tytuł: fw: reintroduce PRIVATE_FLAG_PREVENT_POWER_KEY | Autor: Scott Mertz 
-- Zmiana Nr.: 49be41aa57c0191adfa07509890287405a9c2eeb | Tytuł: SysUI: Add App Picker Navbar Icon | Autor: Varun Date 
+- Zmiana Nr.: f22678747e54509def3fa00b20964d5b11bf8281 
+ | Tytuł: Automated nightly translation import | Autor: Akhil Narang
