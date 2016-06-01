@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download SlimSaber builds">http://fs1.d-h.st/download/00229/Babf/ResurrectionRemix-M-v5.6.9-20160529-kiwi.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24566454284191439</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -14,11 +14,11 @@
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="Download latest SlimGapps">http://opengapps.org/</GappsUrl>
+                description="Download latest Opengapps">http://opengapps.org/</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit SlimSaber bacon thread">http://forum.xda-developers.com/honor-5x/development/rom-resurrection-remix-os-t3386555</XDAUrl>
+                description="Visit Resurrection Remix kiwi thread">http://forum.xda-developers.com/honor-5x/development/rom-resurrection-remix-os-t3386555</XDAUrl>
 	</kiwi>
     </Stable>
 </SlimOTA>
