@@ -10,7 +10,11 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+                description="View ResurrectionRemix Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <ChangelogDevUrl
+                id="changelogdev"
+                title="Changelog kiwi"
+                description="Download latest Opengapps">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogDevUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
