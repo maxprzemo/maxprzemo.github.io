@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <A0001>
-            <Filename>ResurrectionRemix-M-v5.6.9-20160530-kiwi</Filename>
+        <kiwi>
+            <Filename>ResurrectionRemix-M-v5.6.9-20160602-kiwi.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -19,6 +19,6 @@
                 id="xda"
                 title="XDA"
                 description="Visit SlimSaber bacon thread">http://forum.xda-developers.com/honor-5x/development/rom-resurrection-remix-os-t3386555</XDAUrl>
-	</A0001>
+	</kiwi>
     </Stable>
 </SlimOTA>
