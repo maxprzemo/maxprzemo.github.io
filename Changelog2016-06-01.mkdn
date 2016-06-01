@@ -1,0 +1,153 @@
+-----------------
+#     06-01-2016
+-----------------
+
+Repository: android/ 
+--------------------
+- Change No.: 8d3d350 | Title: Track Own DUtils Package | Author: Varun Date 
+
+Repository: external/DUtils/ 
+--------------------
+- Change No.: 2737cf3 | Title: DUtils: Add app picker as an action (1/2) | Author: LorDClockaN 
+- Change No.: 7bf118f | Title: Revert "DUI: Use DocumentsProvider API helper methods [2/2]" | Author: Varun Date 
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: f226787 | Title: Automated nightly translation import | Author: Akhil Narang 
+- Change No.: 295f1bc | Title: Custom header : Add new Get Resurrected smart layer header - Header accent matching with the installed theme accent color - Edit header titles - Fix header sizes | Author: westcripp 
+- Change No.: 4def768 | Title: Core: Fix OOB | Author: Michael W 
+- Change No.: bbb7131 | Title: am: clear state for every protected app invocation. | Author: Adnan Begovic 
+- Change No.: 93c9712 | Title: services: Kick off to CMSystemServer for external service init. | Author: Adnan Begovic 
+- Change No.: 1e27560 | Title: fw: reintroduce PRIVATE_FLAG_PREVENT_POWER_KEY | Author: Scott Mertz 
+- Change No.: 49be41a | Title: SysUI: Add App Picker Navbar Icon | Author: Varun Date 
+- Change No.: f3d5011 | Title: Add animations to quick settings tiles [1/2] | Author: Nico60 
+- Change No.: 55c1eb5 | Title: Qs: Default Reduce Default Animation Duration | Author: Varun Date 
+- Change No.: a4de996 | Title: Custom headers : Add PitchBlack smart layer header & fixed others | Author: westcripp 
+
+Repository: frameworks/native/ 
+--------------------
+- Change No.: 6500d42 | Title: Add dalvik heap/hwui overrides for xxxhdpi phone with 4096MB RAM | Author: Louis Popi 
+
+Repository: packages/apps/CMFileManager/ 
+--------------------
+- Change No.: a11e0f9 | Title: Merge branch 'cm-13.0' of https://github.com/CyanogenMod/android_packages_apps_CMFileManager into marshmallow | Author: apascual89 
+
+Repository: packages/apps/Camera2/ 
+--------------------
+- Change No.: d2bb13d | Title: Camera2: only override power key | Author: Scott Mertz 
+
+Repository: packages/apps/DUI/ 
+--------------------
+- Change No.: 1df623e | Title: Give Pulse & Fling a Little CPU boost | Author: Varun Date 
+- Change No.: 820134e | Title: DUI: Add app picker as an action (2/2) | Author: LorDClockaN 
+- Change No.: 52ae89a | Title: Pulse:Ramp--Up CPU Boost | Author: Varun Date 
+
+Repository: packages/apps/InCallUI/ 
+--------------------
+- Change No.: b15553f | Title: Fix copy constructor of ContactInfoCache | Author: Rohit Yengisetty 
+- Change No.: 029109e | Title: Automatic translation import | Author: Jessica Wagantall 
+- Change No.: 4348245 | Title: Remove ring around activated glowpad targets. | Author: Danny Baumann 
+
+Repository: packages/apps/Messaging/ 
+--------------------
+- Change No.: 43c7515 | Title: Merge branch 'cm-13.0' of https://github.com/CyanogenMod/android_packages_apps_Messaging into marshmallow | Author: apascual89 
+
+Repository: packages/apps/OmniSwitch/ 
+--------------------
+- Change No.: a915a85 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/ResurrectionOTA/ 
+--------------------
+- Change No.: bbd5543 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: 276ce4d | Title: Automated nightly translation import | Author: Akhil Narang 
+- Change No.: 00b2286 | Title: Settings: Update oem unlocking status when dismiss | Author: Keith Mok 
+- Change No.: 371a910 | Title: Settings: Update oem unlocking status with back button | Author: Keith Mok 
+- Change No.: 26e7055 | Title: Automatic translation import | Author: Jessica Wagantall 
+- Change No.: 9539f0e | Title: Add animations to quick settings tiles [2/2] | Author: Nico60 
+
+Repository: packages/apps/Snap/ 
+--------------------
+- Change No.: a0a8d92 | Title: Snap: Only override power key | Author: Scott Mertz 
+
+Repository: packages/apps/ThemeChooser/ 
+--------------------
+- Change No.: 87fbd3b | Title: Automatic translation import | Author: Michael Bestas 
+- Change No.: d2d23d9 | Title: Automatic translation import | Author: Abhisek Devkota 
+- Change No.: db8a517 | Title: ThemeChooser: fix on theme installed notification | Author: Joey Rizzoli 
+
+Repository: packages/services/Telephony/ 
+--------------------
+- Change No.: e763570 | Title: Automated nightly translation import | Author: Akhil Narang 
+- Change No.: 43a6c5d | Title: Switch back to Auto selection if Manual fail's | Author: Deepak Kundra 
+- Change No.: 1ad803c | Title: Move IMS strings to proper resource file | Author: Abhisek Devkota 
+- Change No.: 2356a0a | Title: Automatic translation import | Author: Jessica Wagantall 
+- Change No.: 07cf66d | Title: Automatic translation import | Author: clyde@build01 
+
+Repository: vendor/cm/ 
+--------------------
+- Change No.: cd2c782 | Title: Don't dex-preopt Gello | Author: Abhisek Devkota 
+- Change No.: 8e53c1b | Title: update COOPVOCE apn | Author: RGIB 
+
+Repository: vendor/cmsdk/ 
+--------------------
+- Change No.: a1e3360 | Title: Automatic translation import | Author: Jessica Wagantall 
+- Change No.: 3d76ab9 | Title: cmsdk: Create CMSystemServer to handle our platform init. | Author: Adnan Begovic 
+
+
+-----------------
+#     05-31-2016
+-----------------
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: 2004f38 | Title: Automated nightly translation import | Author: Akhil Narang 
+- Change No.: 56b148e | Title: SysUI: Fix SystemUI Crash on Notification Guts Media | Author: Varun Date 
+
+Repository: packages/apps/Gello/ 
+--------------------
+- Change No.: 3914bbb | Title: Bring DuckDuckGo to parity with AOSP browser changes | Author: Abhisek Devkota 
+
+Repository: packages/apps/OmniSwitch/ 
+--------------------
+- Change No.: e6baa5d | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/ResurrectionOTA/ 
+--------------------
+- Change No.: ae41573 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: d3a4e3f | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/services/Telephony/ 
+--------------------
+- Change No.: b4b2ecb | Title: Automated nightly translation import | Author: Akhil Narang 
+
+
+-----------------
+#     05-30-2016
+-----------------
+
+Repository: build/ 
+--------------------
+- Change No.: b526240 | Title: Merge pull request #10 from MobiusM/marshmallow | Author: Akhil Narang 
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: 8c3d540 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/OmniSwitch/ 
+--------------------
+- Change No.: d467108 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: b80ead6 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/services/Telephony/ 
+--------------------
+- Change No.: d3d0e75 | Title: Automated nightly translation import | Author: Akhil Narang 
+
