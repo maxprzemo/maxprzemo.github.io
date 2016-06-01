@@ -15,5 +15,5 @@
 
 
 
-# Repozytorium : frameworks/base/ <=====
-# Zmiana Nr.: f22678747e54509def3fa00b20964d5b11bf8281 | Tytuł: Automated nightly translation import | Autor: Akhil Narang
+# Repozytorium : frameworks/base/
+- Zmiana Nr.: f22678747e54509def3fa00b20964d5b11bf8281 | Tytuł: Automated nightly translation import | Autor: Akhil Narang
