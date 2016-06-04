@@ -18,7 +18,7 @@
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="Download latest Opengapps">http://opengapps.org/</GappsUrl>
+                description="Download latest Opengapps">http://opengapps.org/?arch=arm64&api=6.0&variant=pico</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
