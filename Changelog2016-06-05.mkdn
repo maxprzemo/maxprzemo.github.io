@@ -1,0 +1,262 @@
+-----------------
+#     06-05-2016
+-----------------
+
+Repository: device/qcom/common/ 
+--------------------
+- Change No.: 674fb85 | Title: power-8952: Fix array initialization | Author: Pat Erley 
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: 0c952b2 | Title: Custom headers : Add more smart multi layer headers | Author: westcripp 
+
+
+-----------------
+#     06-04-2016
+-----------------
+
+Repository: external/stagefright-plugins/ 
+--------------------
+- Change No.: 9db7a9c | Title: stagefright-plugins: flac does not playback | Author: Keith Mok 
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: 963846a | Title: fw: Fix power key interception for PRIVATE_FLAG_PREVENT_POWER_KEY | Author: Sultanxda 
+- Change No.: 5c7181e | Title: Visualizer: Let visualizer fill the entire available screen | Author: Dan Pasanen 
+- Change No.: 1cbcd09 | Title: Only show keyguard panel if on lockscreen + no activity on top | Author: Danesh M 
+- Change No.: 6339c81 | Title: powermanager: Extend scope of lock when updating blocked UIDs | Author: Steve Kondik 
+- Change No.: 34f4243 | Title: Add interpolators to qs tiles animation [1/2] | Author: Nico60 
+- Change No.: bf94bb6 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/CellBroadcastReceiver/ 
+--------------------
+- Change No.: 6bddeb7 | Title: Automatic translation import | Author: clyde@build01 
+
+Repository: packages/apps/Contacts/ 
+--------------------
+- Change No.: 2453818 | Title: Automatic translation import | Author: clyde@build01 
+
+Repository: packages/apps/DUI/ 
+--------------------
+- Change No.: 325b747 | Title: SmartBar: expose color res for all the SmartBar things | Author: Randall Rushing 
+
+Repository: packages/apps/Dialer/ 
+--------------------
+- Change No.: 18f2cb8 | Title: Fix outgoing call vibrate does not work | Author: Keith Mok 
+- Change No.: 4893c00 | Title: Automatic translation import | Author: clyde@build01 
+
+Repository: packages/apps/Gello/ 
+--------------------
+- Change No.: e01b231 | Title: Automatic translation import | Author: clyde@build01 
+
+Repository: packages/apps/OmniSwitch/ 
+--------------------
+- Change No.: 63f3d00 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/ResurrectionOTA/ 
+--------------------
+- Change No.: 81938a1 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/Screencast/ 
+--------------------
+- Change No.: 8af2ad3 | Title: Automatic translation import | Author: clyde@build01 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: 8d1ec8e | Title: Settings:Add interpolators to qs tiles animation[2/2] | Author: Nico60 
+- Change No.: b8337ec | Title: Automatic translation import | Author: inky@build01 
+- Change No.: 7b3db21 | Title: Lockscreen -> lock screen | Author: Michael Bestas 
+- Change No.: c5ae73c | Title: Automatic translation import | Author: clyde@build01 
+- Change No.: fb3a858 | Title: Radio info to control QC dbg prop's | Author: Deepak Kundra 
+- Change No.: ebd49fb | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/SoundRecorder/ 
+--------------------
+- Change No.: 368b858 | Title: Automatic translation import | Author: clyde@build01 
+
+Repository: packages/apps/Trebuchet/ 
+--------------------
+- Change No.: 3b75fff | Title: Automatic translation import | Author: clyde@build01 
+
+Repository: packages/providers/DataUsageProvider/ 
+--------------------
+- Change No.: 45cab1e | Title: Automatic translation import | Author: clyde@build01 
+
+Repository: packages/services/Telephony/ 
+--------------------
+- Change No.: a93ea58 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: vendor/cm/ 
+--------------------
+- Change No.: fa02ce9 | Title: persist.dbg/data for radio to control QC prop's | Author: Deepak Kundra 
+
+Repository: vendor/cmsdk/ 
+--------------------
+- Change No.: a45f179 | Title: Automatic translation import | Author: inky@build01 
+- Change No.: 219815f | Title: Themes: Use default audibles when pkgName is empty | Author: d34d 
+- Change No.: 75bfd62 | Title: Automatic translation import | Author: clyde@build01 
+- Change No.: 385f3df | Title: CMSettings: fix lock screen rotation toggle [3/3] | Author: Dan Pasanen 
+
+
+-----------------
+#     06-03-2016
+-----------------
+
+Repository: device/qcom/common/ 
+--------------------
+- Change No.: a214e51 | Title: power: Fixup typo in 8939 cpu4 timer rate | Author: Pat Erley 
+
+Repository: hardware/qcom/audio-caf/msm8996/ 
+--------------------
+- Change No.: 27c02b0 | Title: msm8996: fix werror when AUDIO_FEATURE_ENABLED_DTS_EAGLE is enabled | Author: Chao Chen 
+
+Repository: packages/apps/Dialer/ 
+--------------------
+- Change No.: 297bc8d | Title: Fix NPE when checking default Dialer | Author: Raj Yengisetty 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: 5193873 | Title: Update resurrection_device_maintainers_strings.xml (#522) | Author: GreekDragon (Alex) 
+
+Repository: packages/services/Mms/ 
+--------------------
+- Change No.: 50a85fe | Title: Revert "MmsRequest: Turn on data for the MMS transaction if required" | Author: Ricardo Cerqueira 
+
+
+-----------------
+#     06-02-2016
+-----------------
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: 81250c0 | Title: Revert "[1/2] base: app notifications hide when locked" | Author: Varun Date 
+- Change No.: bb7c774 | Title: Frameworks: Add per app controls for LP keyguard notifications (1/2) | Author: Lars Greiss 
+- Change No.: 4ca1281 | Title: Don't lookup application keyguard notification visibility unnecessarily | Author: Sam Mortimer 
+- Change No.: 67170df | Title: SystemUI : Ensure we unset focus when showKeyguard is called | Author: Danesh M 
+- Change No.: 34d9e63 | Title: Automatic translation import | Author: inky@build01 
+- Change No.: 91af71d | Title: SystemUI: Fix mCanDismissKeyguard state issue | Author: Ethan Chen 
+- Change No.: 5e8f362 | Title: BatteryService: Fully charged notification toggle (1/2) | Author: Raleigh Matlock 
+
+Repository: hardware/qcom/audio-caf/msm8996/ 
+--------------------
+- Change No.: 96eed4e | Title: Merge tag 'LA.HB.1.3.2-08400-8x96.0' into HEAD | Author: Scott Mertz 
+- Change No.: a4f6084 | Title: Merge tag 'LA.HB.1.3.2-13000-8x96.0' into HEAD | Author: Scott Mertz 
+
+Repository: hardware/qcom/display-caf/msm8996/ 
+--------------------
+- Change No.: 9045cc6 | Title: Merge tag 'LA.HB.1.3.2-08400-8x96.0' into HEAD | Author: Scott Mertz 
+- Change No.: b8878fc | Title: Merge tag 'LA.HB.1.3.2-13000-8x96.0' into HEAD | Author: Scott Mertz 
+
+Repository: hardware/qcom/media-caf/msm8996/ 
+--------------------
+- Change No.: 664d27c | Title: Merge tag 'LA.HB.1.3.2-08400-8x96.0' into HEAD | Author: Scott Mertz 
+- Change No.: 00bb29a | Title: Merge tag 'LA.HB.1.3.2-13000-8x96.0' into HEAD | Author: Scott Mertz 
+- Change No.: 219d27a | Title: venc: use libOmxVenc as blob | Author: Matt Wagantall 
+
+Repository: packages/apps/AudioFX/ 
+--------------------
+- Change No.: 3e0aa4d | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/CMBugReport/ 
+--------------------
+- Change No.: 5e67b37 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/CMFileManager/ 
+--------------------
+- Change No.: a11e0f9 | Title: Merge branch 'cm-13.0' of https://github.com/CyanogenMod/android_packages_apps_CMFileManager into marshmallow | Author: apascual89 
+
+Repository: packages/apps/Calendar/ 
+--------------------
+- Change No.: 0d3b3f3 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/CellBroadcastReceiver/ 
+--------------------
+- Change No.: eb998df | Title: Revert "Automatic translation import" | Author: Abhisek Devkota 
+- Change No.: 2015d27 | Title: Do not let system keys bypass alert | Author: Deepak Kundra 
+
+Repository: packages/apps/Contacts/ 
+--------------------
+- Change No.: 17df072 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/ContactsCommon/ 
+--------------------
+- Change No.: 3b240ec | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Dialer/ 
+--------------------
+- Change No.: 5538aea | Title: Automatic translation import | Author: inky@build01 
+- Change No.: 61d4f83 | Title: Fix call recording does not using AAC format on some devices | Author: Keith Mok 
+
+Repository: packages/apps/Eleven/ 
+--------------------
+- Change No.: adf2dcb | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Gello/ 
+--------------------
+- Change No.: 94aa057 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Messaging/ 
+--------------------
+- Change No.: 43c7515 | Title: Merge branch 'cm-13.0' of https://github.com/CyanogenMod/android_packages_apps_Messaging into marshmallow | Author: apascual89 
+
+Repository: packages/apps/PhoneCommon/ 
+--------------------
+- Change No.: 8a39ad1 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Screencast/ 
+--------------------
+- Change No.: 7926087 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: 400a81c | Title: Revert "[2/2] Settings: app notifications hide when locked" | Author: Varun Date 
+- Change No.: 4d8afb3 | Title: Settings: Add per app controls for LP keyguard notifications (2/2) | Author: Lars Greiss 
+- Change No.: 6e27c43 | Title: Fix the momery leak in DrawOverlayDetails | Author: 宋凯伦 
+- Change No.: 0528557 | Title: Fix the memory leak in TetherSettings | Author: 宋凯伦 
+- Change No.: f04ef2f | Title: Notifications: Fully charged notification toggle (2/2) | Author: Raleigh Matlock 
+
+Repository: packages/apps/Snap/ 
+--------------------
+- Change No.: a3aea38 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/SoundRecorder/ 
+--------------------
+- Change No.: dd05872 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/ThemeChooser/ 
+--------------------
+- Change No.: 87fbd3b | Title: Automatic translation import | Author: Michael Bestas 
+- Change No.: d2d23d9 | Title: Automatic translation import | Author: Abhisek Devkota 
+- Change No.: db8a517 | Title: ThemeChooser: fix on theme installed notification | Author: Joey Rizzoli 
+
+Repository: packages/apps/Trebuchet/ 
+--------------------
+- Change No.: 156cc21 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/TvSettings/ 
+--------------------
+- Change No.: a5c32e0 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/providers/DataUsageProvider/ 
+--------------------
+- Change No.: e48baf2 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/providers/DownloadProvider/ 
+--------------------
+- Change No.: 7c5833e | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/providers/ThemesProvider/ 
+--------------------
+- Change No.: dafec22 | Title: Apply bandaid to ensure preview permissions are correct | Author: d34d 
+
+Repository: packages/providers/WeatherProvider/ 
+--------------------
+- Change No.: 38583d6 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/services/LiveLockScreenService/ 
+--------------------
+- Change No.: 3853af4 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/wallpapers/PhotoPhase/ 
+--------------------
+- Change No.: 9fb61ea | Title: Automatic translation import | Author: inky@build01 
