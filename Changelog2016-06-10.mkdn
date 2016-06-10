@@ -1,0 +1,413 @@
+-----------------
+#     06-10-2016
+-----------------
+
+Repository: art/ 
+--------------------
+- Change No.: fd80703 | Title: Enable clang for ARM builds. | Author: Stephen Hines 
+- Change No.: ebb3a5e | Title: art: Fix QCPERF workaround for ARM after Clang fixes | Author: Steve Kondik 
+
+Repository: device/huawei/kiwi/ 
+--------------------
+- Change No.: 3f584fd | Title: Update config.xml | Author: elan33 
+- Change No.: 5fc792e | Title: Merge branch 'fingtest' of https://github.com/maxprzemo/android_device_huawei_kiwi into fingtest | Author: maxprzemo 
+
+Repository: frameworks/av/ 
+--------------------
+- Change No.: 929eb48 | Title: OMXCodec: Remove kClientNeedsFrameBuffer for S3D | Author: Christopher N. Hesse 
+
+Repository: kernel/huawei/kiwi/ 
+--------------------
+- Change No.: 4619746 | Title: Revert "kiwi: Make the hall sensor generate SW_LID on flip cover events" | Author: maxprzemo 
+
+Repository: packages/apps/CellBroadcastReceiver/ 
+--------------------
+- Change No.: 0b8b02b | Title: Automatic translation import | Author: pinky@build01 
+
+Repository: packages/apps/Contacts/ 
+--------------------
+- Change No.: 5307288 | Title: Automatic translation import | Author: pinky@build01 
+
+Repository: packages/apps/Dialer/ 
+--------------------
+- Change No.: 49ee037 | Title: Automatic translation import | Author: pinky@build01 
+
+Repository: packages/apps/Gello/ 
+--------------------
+- Change No.: e6b6219 | Title: Automatic translation import | Author: pinky@build01 
+
+Repository: packages/apps/Screencast/ 
+--------------------
+- Change No.: 3de1b3f | Title: Automatic translation import | Author: pinky@build01 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: 067baca | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/providers/DataUsageProvider/ 
+--------------------
+- Change No.: ad02907 | Title: Automatic translation import | Author: pinky@build01 
+
+Repository: system/core/ 
+--------------------
+- Change No.: d1d24f2 | Title: Merge branch 'cm-13.0' of https://github.com/CyanogenMod/android_system_core into marshmallow | Author: apascual89 
+
+
+-----------------
+#     06-09-2016
+-----------------
+
+Repository: art/ 
+--------------------
+- Change No.: 9805570 | Title: art: Re-enable host clang | Author: Tyler Dunn 
+
+Repository: device/qcom/common/ 
+--------------------
+- Change No.: 97aa119 | Title: power-8992: Remove extraneous boosting | Author: Steve Kondik 
+
+Repository: external/skia/ 
+--------------------
+- Change No.: b632abe | Title: skia: qc-perf: link against libqc-opt for msm8937/17/53 | Author: Ricardo Cerqueira 
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: 5d883a9 | Title: SystemUI : Android N style "No recents" activity | Author: westcripp 
+- Change No.: 0956157 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: hardware/qcom/media-caf/msm8952/ 
+--------------------
+- Change No.: ddeb931 | Title: mm-video-v4l2: venc: Avoid processing ETBs/FTBs in invalid states | Author: Praveen Chavan 
+- Change No.: d81a756 | Title: mm-video-v4l2: vdec: Avoid processing ETBs/FTBs in invalid states | Author: Praveen Chavan 
+
+Repository: hardware/qcom/media-caf/msm8974/ 
+--------------------
+- Change No.: eac7fd0 | Title: mm-video-v4l2: vdec: Avoid processing ETBs/FTBs in invalid states | Author: Praveen Chavan 
+- Change No.: ca99059 | Title: mm-video-v4l2: venc: Avoid processing ETBs/FTBs in invalid states | Author: Praveen Chavan 
+
+Repository: hardware/qcom/media-caf/msm8994/ 
+--------------------
+- Change No.: c08ba8c | Title: mm-video-v4l2: vdec: Avoid processing ETBs/FTBs in invalid states | Author: Praveen Chavan 
+- Change No.: 3eda402 | Title: mm-video-v4l2: venc: Avoid processing ETBs/FTBs in invalid states | Author: Praveen Chavan 
+
+Repository: hardware/qcom/media-caf/msm8996/ 
+--------------------
+- Change No.: 726dddc | Title: mm-video-v4l2: vdec: Avoid processing ETBs/FTBs in invalid states | Author: Praveen Chavan 
+- Change No.: d92e6d9 | Title: mm-video-v4l2: venc: Avoid processing ETBs/FTBs in invalid states | Author: Praveen Chavan 
+
+Repository: hardware/qcom/media/default/ 
+--------------------
+- Change No.: f0fb3c9 | Title: mm-video-v4l2: venc: Avoid processing ETBs/FTBs in invalid states | Author: Praveen Chavan 
+- Change No.: 487da6e | Title: mm-video-v4l2: vdec: Avoid processing ETBs/FTBs in invalid states | Author: Praveen Chavan 
+
+Repository: kernel/huawei/kiwi/ 
+--------------------
+- Change No.: 90e2349 | Title: Merge pull request #2 from CyanogenMod/cm-13.0 | Author: Przemysław 
+
+Repository: packages/apps/ContactsCommon/ 
+--------------------
+- Change No.: 939ed41 | Title: Add valid number checks for block menu item | Author: Erica Chang 
+
+Repository: packages/apps/Dialer/ 
+--------------------
+- Change No.: 6a2124a | Title: Initialize ContactsTile loader in SpeedDialFragment onStart | Author: Raj Yengisetty 
+- Change No.: 52cab04 | Title: Nudges: Move roaming nudge logic to wifi listener | Author: Stephen Bird 
+- Change No.: 209c67b | Title: Performance tweaks for DeepLinkCache and icon retrieval. | Author: NathanielWaggoner 
+
+Repository: packages/apps/Messaging/ 
+--------------------
+- Change No.: 57a323d | Title: Merge branch 'cm-13.0' of https://github.com/CyanogenMod/android_packages_apps_Messaging into marshmallow | Author: apascual89 
+- Change No.: 1867ccb | Title: Merge branch 'marshmallow' of https://github.com/ResurrectionRemix/android_packages_apps_Messaging into marshmallow | Author: apascual89 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: a5e4e48 | Title: Settings : Fix dashboard colors default and reset values - Fix the background string - Fix dependency and white spaces | Author: westcripp 
+- Change No.: 95ac488 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/Snap/ 
+--------------------
+- Change No.: 0213471 | Title: Snap: Check photo orientation when creating thumbnail | Author: Zdrowy Gosciu 
+
+Repository: vendor/cmsdk/ 
+--------------------
+- Change No.: b6a5e67 | Title: Ensures ProfileTrustAgent properly grants/revokes trust [2/2] | Author: Luis Vidal 
+
+
+-----------------
+#     06-08-2016
+-----------------
+
+Repository: android/ 
+--------------------
+- Change No.: 8c18a8e | Title: 6.0.1_r43->6.0.1_r46 | Author: Varun Date 
+
+Repository: build/ 
+--------------------
+- Change No.: dbbe318 | Title: Merge branch 'cm-13.0' of https://github.com/CyanogenMod/android_build into marshmallow | Author: Varun Date 
+
+Repository: device/qcom/common/ 
+--------------------
+- Change No.: ad90ded | Title: power: Use declared enums where possible | Author: Zhao Wei Liew 
+
+Repository: frameworks/av/ 
+--------------------
+- Change No.: 9bdc0f6 | Title: MTP: Fix crash when no storages are available | Author: Tom Marshall 
+- Change No.: b3fbce1 | Title: MtpServer: Fix concurrent access to mStorages | Author: Tom Marshall 
+- Change No.: fdc7d1f | Title: Fixing ALOGE message in commit ad40e57890f81a3cf436c5f06da66396010bd9e5 | Author: Jessica Wagantall 
+- Change No.: a207eed | Title: Merge branch 'cm-13.0' of https://github.com/CyanogenMod/android_frameworks_av into marshmallow | Author: Varun Date 
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: acb359c | Title: Merge tag 'android-6.0.1_r46' into HEAD | Author: Jessica Wagantall 
+- Change No.: 5975f17 | Title: SysUI: Fix Secure Lockscreen Pulldown Switch | Author: Varun Date 
+- Change No.: b2ee779 | Title: Update sb headset vector | Author: westcripp 
+
+Repository: hardware/qcom/audio-caf/msm8916/ 
+--------------------
+- Change No.: 277f5f4 | Title: Merge remote-tracking branch 'caf/LA.BR.1.2.6_rb1.14' into cm-13.0-caf-8916 | Author: Ethan Chen 
+
+Repository: hardware/qcom/display/ 
+--------------------
+- Change No.: 6b48c2b | Title: msm8226: comment out ifeq with missing endif | Author: Greg Wilard 
+
+Repository: hardware/qcom/media-caf/msm8916/ 
+--------------------
+- Change No.: 69616e0 | Title: Merge remote-tracking branch 'caf/LA.BR.1.2.6_rb1.14' into cm-13.0-caf-8916 | Author: Ethan Chen 
+
+Repository: hardware/qcom/media-caf/msm8952/ 
+--------------------
+- Change No.: bb2d97a | Title: DO NOT MERGE mm-video-v4l2: vdec: add safety checks for freeing buffers | Author: Praveen Chavan 
+- Change No.: cbc1231 | Title: DO NOT MERGE mm-video-v4l2: vidc: validate omx param/config data | Author: Praveen Chavan 
+- Change No.: 3dd7332 | Title: DO NOT MERGE mm-video-v4l2: venc: add safety checks for freeing buffers | Author: Praveen Chavan 
+- Change No.: 1071714 | Title: DO NOT MERGE mm-video-v4l2: vdec: deprecate unused config OMX_IndexVendorVideoExtraData | Author: Praveen Chavan 
+
+Repository: hardware/qcom/media/default/ 
+--------------------
+- Change No.: e824046 | Title: Merge tag 'android-6.0.1_r46' into HEAD | Author: Jessica Wagantall 
+
+Repository: kernel/huawei/kiwi/ 
+--------------------
+- Change No.: bcd26c6 | Title: ALSA: usb-audio: avoid freeing umidi object twice | Author: Andrey Konovalov 
+- Change No.: c96abe2 | Title: ALSA: timer: Fix race among timer ioctls | Author: Takashi Iwai 
+- Change No.: a4622d0 | Title: ALSA: timer: Fix double unlink of active_list | Author: Takashi Iwai 
+- Change No.: 8d3bc17 | Title: ALSA: timer: Harden slave timer list handling | Author: Takashi Iwai 
+- Change No.: 968914f | Title: ALSA: hrtimer: Fix stall by hrtimer_cancel() | Author: Takashi Iwai 
+- Change No.: d2ebe06 | Title: usbnet: cleanup after bind() in probe() | Author: Oliver Neukum 
+- Change No.: 119e445 | Title: USB: cdc-acm: more sanity checking | Author: Oliver Neukum 
+- Change No.: 49b606d | Title: ipv4: Don't do expensive useless work during inetdev destroy. | Author: David S. Miller 
+- Change No.: a56b84f | Title: netfilter: x_tables: fix unconditional helper | Author: Florian Westphal 
+- Change No.: 69e5df4 | Title: netfilter: x_tables: check for size overflow | Author: Florian Westphal 
+- Change No.: 389cd05 | Title: ppp: take reference on channels netns | Author: Guillaume Nault 
+- Change No.: e6d0f2b | Title: pipe: limit the per-user amount of pages allocated in pipes | Author: Willy Tarreau 
+- Change No.: ed0a0f5 | Title: ALSA: timer: Fix leak in SNDRV_TIMER_IOCTL_PARAMS | Author: Kangjie Lu 
+- Change No.: 6c2a64e | Title: ALSA: timer: Fix leak in events via snd_timer_user_ccallback | Author: Kangjie Lu 
+- Change No.: 3fe2597 | Title: ALSA: timer: Fix leak in events via snd_timer_user_tinterrupt | Author: Kangjie Lu 
+- Change No.: c2cf8dc | Title: msm: mdss: fix possible out-of-bounds and overflow issue in mdp debugfs | Author: Naseer Ahmed 
+- Change No.: e4e0a3b | Title: msm: kgsl: Cast perfcounter query count to an unsigned int | Author: Sunil Khatri 
+- Change No.: 0234408 | Title: ASoC: msm: audio-effects: fix stack overread and heap overwrite | Author: Ravi Kumar Alamanda 
+- Change No.: 1b56639 | Title: msm: camera: ispif: Validate VFE num input during reset | Author: Suman Mukherjee 
+- Change No.: 13a986e | Title: Input: aiptek - fix crash on detecting device without endpoints | Author: Vladis Dronov 
+
+Repository: packages/apps/CellBroadcastReceiver/ 
+--------------------
+- Change No.: f54de60 | Title: fix Dutch translation - On vs Off | Author: Eddy Witkamp 
+
+Repository: packages/apps/Contacts/ 
+--------------------
+- Change No.: aa24ca6 | Title: Contacts : Remove silent option from ringtone | Author: Ankit Gupta 
+
+Repository: packages/apps/InCallUI/ 
+--------------------
+- Change No.: e1f40e5 | Title: Automatic translation import | Author: clyde@build01 
+- Change No.: 2bcf7e9 | Title: Fix appearance of auxiliary circles in GlowPadView. | Author: Danny Baumann 
+- Change No.: 56f6eec | Title: InCallUI: Fix possible OOBs | Author: Michael W 
+- Change No.: 86599e7 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Messaging/ 
+--------------------
+- Change No.: 65e4030 | Title: Merge branch 'cm-13.0' of https://github.com/CyanogenMod/android_packages_apps_Messaging into HEAD | Author: Varun Date 
+- Change No.: ca8ed52 | Title: Messaging: fix multi participant "always-ask" MSIM flow | Author: Roman Birg 
+- Change No.: b3585c8 | Title: PhoneUtils: Doublecheck that the system default is actually usable | Author: Ricardo Cerqueira 
+
+Repository: packages/apps/OmniSwitch/ 
+--------------------
+- Change No.: 0f9e642 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/Profiles/ 
+--------------------
+- Change No.: ea4e0f4 | Title: Ensures ProfileTrustAgent properly grants/revokes trust [1/2] | Author: Luis Vidal 
+
+Repository: packages/apps/ResurrectionOTA/ 
+--------------------
+- Change No.: 932a97d | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: 5685e23 | Title: Add Kenzo Device Maintainer! (#524) | Author: Kumar Jyotirmay 
+- Change No.: 343feae | Title: Settings: add kenzo maintainer preference | Author: Akhil Narang 
+- Change No.: aee224d | Title: Automatic translation import | Author: inky@build01 
+- Change No.: 99257f4 | Title: Settings:6.0.1_r43->6.0.1_r46 | Author: Varun Date 
+- Change No.: 94884c1 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/SoundRecorder/ 
+--------------------
+- Change No.: 700fcdb | Title: Stop audio playback/recording in LOSS_TRANSIENT mode | Author: Keith Mok 
+
+Repository: packages/providers/TelephonyProvider/ 
+--------------------
+- Change No.: 32c8322 | Title: TelephonyProvider: add apn lookup for imsi | Author: Roman Birg 
+
+Repository: packages/services/Telecomm/ 
+--------------------
+- Change No.: 10662b9 | Title: Changed call waiting behavior to hold from end of the current call | Author: Gary Kipnis 
+
+Repository: packages/services/Telephony/ 
+--------------------
+- Change No.: f49bfac | Title: Automatic translation import | Author: inky@build01 
+- Change No.: 3a4f342 | Title: Automatic translation import | Author: clyde@build01 
+- Change No.: 7310c9a | Title: Automatic translation import | Author: inky@build01 
+- Change No.: 38db50a | Title: Merge tag 'android-6.0.1_r46' into HEAD | Author: Jessica Wagantall 
+- Change No.: 4b617cd | Title: Automated nightly translation import | Author: Akhil Narang 
+
+
+-----------------
+#     06-07-2016
+-----------------
+
+Repository: build/ 
+--------------------
+- Change No.: 9b017f9 | Title: Merge tag 'android-6.0.1_r46' into HEAD | Author: Jessica Wagantall 
+
+Repository: external/libvpx/ 
+--------------------
+- Change No.: 2246e67 | Title: Merge tag 'android-6.0.1_r46' into HEAD | Author: Jessica Wagantall 
+
+Repository: frameworks/av/ 
+--------------------
+- Change No.: 80c362f | Title: Merge tag 'android-6.0.1_r46' into HEAD | Author: Jessica Wagantall 
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: 6a8e422 | Title: Update keyguard weather layout | Author: westcripp 
+- Change No.: 5461845 | Title: SystemUI: Add support for persistent usb drive notification. | Author: Adnan Begovic 
+- Change No.: a88e581 | Title: isRoaming: fix possible NPE | Author: Michael W 
+- Change No.: d73e266 | Title: systemui: Fix compilation failure | Author: Diogo Ferreira 
+
+Repository: frameworks/native/ 
+--------------------
+- Change No.: 508eb77 | Title: Merge tag 'android-6.0.1_r46' into HEAD | Author: Jessica Wagantall 
+
+Repository: hardware/qcom/audio-caf/msm8952/ 
+--------------------
+- Change No.: 51dff91 | Title: Merge remote-tracking branch 'caf/LA.BR.1.3.3_rb1.18' into cm-13.0-caf-8952 | Author: Ethan Chen 
+
+Repository: hardware/qcom/media-caf/msm8952/ 
+--------------------
+- Change No.: 3325cfe | Title: Merge remote-tracking branch 'caf/LA.BR.1.3.3_rb1.18' into cm-13.0-caf-8952 | Author: Ethan Chen 
+
+Repository: packages/apps/Bluetooth/ 
+--------------------
+- Change No.: ef133b1 | Title: Merge tag 'android-6.0.1_r46' into HEAD | Author: Jessica Wagantall 
+
+Repository: packages/apps/BluetoothExt/ 
+--------------------
+- Change No.: 559f783 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/CMBugReport/ 
+--------------------
+- Change No.: 1ed8ff0 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Calendar/ 
+--------------------
+- Change No.: bcc87f9 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/CellBroadcastReceiver/ 
+--------------------
+- Change No.: 6134363 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/ContactsCommon/ 
+--------------------
+- Change No.: 26fe569 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Dialer/ 
+--------------------
+- Change No.: fd13175 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Gello/ 
+--------------------
+- Change No.: 93e2820 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Messaging/ 
+--------------------
+- Change No.: 4a0efca | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/PackageInstaller/ 
+--------------------
+- Change No.: b277701 | Title: Merge tag 'android-6.0.1_r46' into HEAD | Author: Jessica Wagantall 
+
+Repository: packages/apps/PhoneCommon/ 
+--------------------
+- Change No.: 8e21a14 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Screencast/ 
+--------------------
+- Change No.: f934b05 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: 0f64498 | Title: Correct typo (#523) | Author: Arvind Raj 
+
+Repository: packages/apps/SoundRecorder/ 
+--------------------
+- Change No.: f128234 | Title: Automatic translation import | Author: inky@build01 
+- Change No.: ee23f8e | Title: Set notification to auto clean. | Author: Keith Mok 
+
+Repository: packages/providers/DataUsageProvider/ 
+--------------------
+- Change No.: a27755d | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/providers/WeatherProvider/ 
+--------------------
+- Change No.: 09b9135 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: system/bt/ 
+--------------------
+- Change No.: 600e1a9 | Title: Merge tag 'android-6.0.1_r46' into HEAD | Author: Jessica Wagantall 
+
+Repository: system/core/ 
+--------------------
+- Change No.: 64caba3 | Title: Merge tag 'android-6.0.1_r46' into HEAD | Author: Jessica Wagantall 
+
+
+-----------------
+#     06-06-2016
+-----------------
+
+Repository: external/libnetfilter_conntrack/ 
+--------------------
+- Change No.: 4d4cb7f | Title: conntrack: Add kernel dependency | Author: Steve Kondik 
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: 973dd3b | Title: RecentsStyles: Fix TaskView Header Text on Light TaskView Header Colors | Author: Varun Date 
+- Change No.: 5d1e060 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: frameworks/opt/telephony/ 
+--------------------
+- Change No.: a94ae66 | Title: DcTracker: use IMSI with APN lookup | Author: Roman Birg 
+
+Repository: packages/apps/Dialer/ 
+--------------------
+- Change No.: 054c1bb | Title: Wire up share visible contacts | Author: Stephen Bird 
+
+Repository: packages/apps/OmniSwitch/ 
+--------------------
+- Change No.: 8681405 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: a73ac7b | Title: Settings: Fix Default Recents App Icon Color for Good | Author: Varun Date 
+- Change No.: aa45528 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/Trebuchet/ 
+--------------------
+- Change No.: abf7e7d | Title: Trebuchet: Never show page indicator in app drawer | Author: Scott Mertz 
