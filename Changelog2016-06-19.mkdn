@@ -1,0 +1,480 @@
+-----------------
+#     06-19-2016
+-----------------
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: 497d14d | Title: SysUI:SysUI: Clean up objects when recreating statusbar and reAdd Icons() | Author: 0xD34D 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: ecdd971 | Title: Settings: Update n7000 and Grand Duos Maintainers | Author: Varun Date 
+- Change No.: c7e955d | Title: Settings: fix crash when reset App preference | Author: Ankit Gupta 
+- Change No.: 270bf15 | Title: Settings: Remove hide navigation bar settings | Author: Keith Mok 
+- Change No.: 6f9bc41 | Title: Settings: Apply decor padding in landscape storage wizard | Author: Scott Mertz 
+- Change No.: 4b905c0 | Title: Automatic translation import | Author: pinky@build01 
+- Change No.: c23a782 | Title: Automatic translation import | Author: inky@build01 
+- Change No.: 210c3ae | Title: Show more accurate internal storage capacity | Author: Siavash Arya 
+- Change No.: 10c1bdc | Title: Settings: display fstype for mounted volumes | Author: maxwen 
+- Change No.: c79cafb | Title: Settings: Dissallow privacy guarding system apps on overlay. | Author: Adnan Begovic 
+- Change No.: a2b342b | Title: Settings: Enable Dashboard Switches by default | Author: Varun Date 
+
+
+-----------------
+#     06-18-2016
+-----------------
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: 62baeee | Title: Revert "Only show keyguard panel if on lockscreen + no activity on top" | Author: Danesh M 
+- Change No.: 048c319 | Title: Fix NPE in DocumentsUI when rotate UI before format as internal | Author: Scott Mertz 
+
+Repository: packages/apps/AudioFX/ 
+--------------------
+- Change No.: c5f90c1 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Bluetooth/ 
+--------------------
+- Change No.: 8fed12d | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/BluetoothExt/ 
+--------------------
+- Change No.: cba6d27 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Camera2/ 
+--------------------
+- Change No.: b380209 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/CellBroadcastReceiver/ 
+--------------------
+- Change No.: 90661df | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/CertInstaller/ 
+--------------------
+- Change No.: 7fa38ad | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Contacts/ 
+--------------------
+- Change No.: dc8edef | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/ContactsCommon/ 
+--------------------
+- Change No.: 0dba8fb | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/DeskClock/ 
+--------------------
+- Change No.: e12b243 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Dialer/ 
+--------------------
+- Change No.: 8ecd4d5 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/ExactCalculator/ 
+--------------------
+- Change No.: 1992210 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Gello/ 
+--------------------
+- Change No.: 41418ea | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/ManagedProvisioning/ 
+--------------------
+- Change No.: 0ded606 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/PackageInstaller/ 
+--------------------
+- Change No.: 97c5c80 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/PhoneCommon/ 
+--------------------
+- Change No.: 6115331 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Profiles/ 
+--------------------
+- Change No.: c49a6d5 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Screencast/ 
+--------------------
+- Change No.: d297fad | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: 38e5a1c | Title: few fixes (#530) | Author: Sayeed Afridi (xda nickname : say99 ) 
+
+Repository: packages/apps/Snap/ 
+--------------------
+- Change No.: f6bb5ad | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/Trebuchet/ 
+--------------------
+- Change No.: fd3ac2a | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/apps/TvSettings/ 
+--------------------
+- Change No.: 69224db | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/inputmethods/LatinIME/ 
+--------------------
+- Change No.: 8695e12 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/providers/BookmarkProvider/ 
+--------------------
+- Change No.: b9f8899 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/providers/CallLogProvider/ 
+--------------------
+- Change No.: 31525d6 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/providers/ContactsProvider/ 
+--------------------
+- Change No.: 0747d2d | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/providers/DataUsageProvider/ 
+--------------------
+- Change No.: 5178682 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/providers/TelephonyProvider/ 
+--------------------
+- Change No.: c8df0f0 | Title: Automatic translation import | Author: inky@build01 
+
+Repository: packages/providers/WeatherProvider/ 
+--------------------
+- Change No.: 45460ca | Title: Automatic translation import | Author: inky@build01 
+
+
+-----------------
+#     06-17-2016
+-----------------
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: b373d2b | Title: SystemUI : Reduce np header icon padding | Author: westcripp 
+- Change No.: 4b4d4ef | Title: Fix statusbar gradient 9 patch pngs | Author: westcripp 
+- Change No.: 9cccf35 | Title: SysUI: Make Dark Icon Mode Optional Along With New SB gradient [1/2] | Author: Varun Date 
+
+Repository: frameworks/opt/hardware/ 
+--------------------
+- Change No.: 35f6e78 | Title: DisplayColorCalibration: Fix logic | Author: Willi Ye 
+
+Repository: hardware/ti/omap4/ 
+--------------------
+- Change No.: 8d0de83 | Title: cmhw: Use cmsdk FileUtils | Author: Michael Bestas 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: 0c092d3 | Title: Add HTC M9 Maintainer -  irocevo | Author: Varun Date 
+- Change No.: 3b06d28 | Title: Update d855 Maintainer - Sascha Nesterovic | Author: Varun Date 
+- Change No.: 344cfbc | Title: Settings:Make Dark Icon Mode Optional Along With New SB gradient [2/2] | Author: Varun Date 
+
+Repository: vendor/cmsdk/ 
+--------------------
+- Change No.: 6612ba1 | Title: CMSDK : Add LiveLockScreenManager tests | Author: Danesh M 
+- Change No.: 14bac38 | Title: CMSDK : Fix external view test | Author: Danesh M 
+- Change No.: 784e082 | Title: CMSDK : Add tests for ColorUtils | Author: Danesh M 
+- Change No.: d1a6412 | Title: Provide remaining Weather API test coverage | Author: Luis Vidal 
+- Change No.: 823c8e7 | Title: utils: Introduce FileUtils class | Author: Michael Bestas 
+- Change No.: d469af1 | Title: cmsdk: Provide remaining Profile test coverage. | Author: Adnan Begovic 
+- Change No.: 1279cf0 | Title: cmsdk: Provide remaining ProfileManager test coverage. | Author: Adnan Begovic 
+- Change No.: 55f03e5 | Title: cmsdk: Provide remainder test coverage for CMStatusbarManager. | Author: Adnan Begovic 
+- Change No.: f73b2d1 | Title: cmsdk: Provide test coverage for remainder PartnerInterface's. | Author: Adnan Begovic 
+- Change No.: 0b4a435 | Title: ExtViews: Catch SecurityException due to bad interface | Author: d34d 
+- Change No.: 037602b | Title: cmsdk: Increase flaky test tolerance on zenmode tests. | Author: Adnan Begovic 
+
+
+-----------------
+#     06-16-2016
+-----------------
+
+Repository: android/ 
+--------------------
+- Change No.: 5e4972d | Title: upstream changes (#75) | Author: Hota 
+
+Repository: development/ 
+--------------------
+- Change No.: 87654bc | Title: gdbclient: fix gdbclient <processname> invocation | Author: Khalid Zubair 
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: 3c58778 | Title: Revert "SysUI: Don't let rogue themes ruin notifications" | Author: westcripp 
+
+Repository: frameworks/opt/hardware/ 
+--------------------
+- Change No.: d2e68ea | Title: cmhw: Use cmsdk FileUtils | Author: Michael Bestas 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: c4047ac | Title: Fix the about RR string | Author: westcripp 
+- Change No.: bf453a2 | Title: Fix missing preference for Z008 maintainer | Author: Călin Neamţu 
+- Change No.: ffd957a | Title: Merge pull request #528 from nilac8991/patch-1 | Author: Altan KRK 
+- Change No.: 64b05fe | Title: Fix also some caps | Author: Călin Neamţu 
+- Change No.: f730240 | Title: Merge pull request #529 from nilac8991/patch-2 | Author: Altan KRK 
+- Change No.: 85fe11d | Title: Update performance settings icon | Author: westcripp 
+
+Repository: vendor/cm/ 
+--------------------
+- Change No.: 6a55542 | Title: Update : v 5.7.0 | Author: westcripp 
+- Change No.: 0827dd6 | Title: Add Resurrection Remix Crowdin link to changelog | Author: westcripp 
+
+
+-----------------
+#     06-15-2016
+-----------------
+
+Repository: frameworks/av/ 
+--------------------
+- Change No.: 035f7b3 | Title: Merge branch 'cm-13.0' of https://github.com/CyanogenMod/android_frameworks_av into marshmallow | Author: Varun Date 
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: 6c86851 | Title: DocumentsUI : Hide advanced menu option when in forced mode | Author: Danesh M 
+- Change No.: 02bf624 | Title: Themes: Expose Power Dialogs | Author: Bryan Owens 
+- Change No.: e4775be | Title: SysUI: Don't let rogue themes ruin notifications | Author: d34d 
+- Change No.: 391e4e1 | Title: SystemUI: fix one more misbehaving shadow | Author: LorD ClockaN 
+
+Repository: hardware/cyanogen/ 
+--------------------
+- Change No.: c70d78a | Title: cmhw: Use cmsdk FileUtils | Author: Michael Bestas 
+
+Repository: hardware/qcom/bt-caf/ 
+--------------------
+- Change No.: e024328 | Title: Merge branch 'bt.lnx.1.0.c1-rel' of git://codeaurora.org/platform/hardware/qcom/bt into HEAD | Author: Steve Kondik 
+
+Repository: hardware/qcom/wlan-caf/ 
+--------------------
+- Change No.: e81bc90 | Title: Merge branch 'wlan-aosp.lnx.1.0.c1-rel' of git://codeaurora.org/platform/hardware/qcom/wlan into cm-13.0 | Author: Steve Kondik 
+- Change No.: b1243a0 | Title: wcnss_service: Migrate from QMI to QCCI | Author: Anand N Sunkad 
+
+Repository: packages/apps/DUI/ 
+--------------------
+- Change No.: 891c9a6 | Title: DUI: Move our Feature Configs to a Separate File | Author: Varun Date 
+
+Repository: packages/apps/Dialer/ 
+--------------------
+- Change No.: d7cc36f | Title: Makes private the ambient connection check, to stop log spam. | Author: Nathaniel Waggoner 
+
+Repository: packages/apps/InCallUI/ 
+--------------------
+- Change No.: 3d55e71 | Title: Automatic translation import | Author: pinky@build01 
+- Change No.: f8ee491 | Title: Stops ModButtonPresenter from hitting PackageManager on UI updates. | Author: Nathaniel Waggoner 
+
+Repository: packages/apps/Messaging/ 
+--------------------
+- Change No.: 66ab30e | Title: Merge branch 'cm-13.0' of https://github.com/CyanogenMod/android_packages_apps_Messaging into marshmallow | Author: Varun Date 
+
+Repository: packages/apps/PackageInstaller/ 
+--------------------
+- Change No.: c963ecd | Title: Themes: Add tint mode so custom icons can show in permissions settings | Author: Bryan Owens 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: f155c95 | Title: Settings:Disable Weather Provider By Default | Author: Varun Date 
+
+Repository: packages/services/Telephony/ 
+--------------------
+- Change No.: 0578912 | Title: Telephony: pass subscriber id to apn settings | Author: Roman Birg 
+
+Repository: vendor/cm/ 
+--------------------
+- Change No.: 9359553 | Title: cm: Change output html name for cmsdk test coverage. | Author: Adnan Begovic 
+- Change No.: 4d8d6f2 | Title: cm: Include CMSettingsProvider in test coverage report. | Author: Adnan Begovic 
+- Change No.: 8a7d9e5 | Title: Gello: Update to v20 artifact | Author: Abhisek Devkota 
+- Change No.: e9c1917 | Title: cm: Give BootReceiver permissions to read fsck log | Author: Matt Mower 
+- Change No.: cd3e5d7 | Title: config: Make product size available for use by Repository: mkfiles | Author: Tom Marshall  
+--------------------
+- Change No.: 0db9185 | Title: cm: Use cmsdk-api-coverage executable for coverage. | Author: Adnan Begovic 
+
+Repository: vendor/cmsdk/ 
+--------------------
+- Change No.: 1810368 | Title: cmsdk: Provide tests for Profile.ProfileTrigger interfaces. | Author: Adnan Begovic 
+- Change No.: 2372d6c | Title: cmsdk: Provide test coverage to Profile's *Settings classes. | Author: Adnan Begovic 
+- Change No.: 9013a30 | Title: cmsdk: Add CustomTileListenerService tests. | Author: Adnan Begovic 
+- Change No.: 493aec6 | Title: cmsdk: Clean up posted tile in CustomTileListenerService test. | Author: Adnan Begovic 
+- Change No.: ccc3503 | Title: cmsdk: fixup javadoc in CMHardwareManager | Author: Scott Mertz 
+- Change No.: b2e6f39 | Title: External view test | Author: Danesh M 
+
+
+-----------------
+#     06-14-2016
+-----------------
+
+Repository: device/qcom/common/ 
+--------------------
+- Change No.: 96e5ea4 | Title: power-8994: Port features from msm8992 | Author: dianlujitao 
+
+Repository: external/cmsdk-api-coverage/ 
+--------------------
+- Change No.: 8ebfd3c | Title: cmsdk-api-coverage: initial fork of cts-api-coverage. | Author: Adnan Begovic 
+- Change No.: c281622 | Title: cmsdk-api-coverage: Actually use the cmsdk-api-coverage jar. | Author: Adnan Begovic 
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: ccd5b8d | Title: Fix size of statusbar headset vector | Author: westcripp 
+- Change No.: bd95d5a | Title: Automated nightly translation import | Author: Akhil Narang 
+- Change No.: 8b52ca4 | Title: Fix possibility of slim recents icon fc | Author: westcripp 
+- Change No.: 97d095b | Title: Fix RR header size | Author: westcripp 
+- Change No.: 0d68def | Title: SystemUI : Remove LightStatusbar dark icon mode | Author: westcripp 
+- Change No.: 34e7329 | Title: Fix a glitch causing shadow not to be reset when header disabled | Author: LorDClockaN 
+
+Repository: packages/apps/CarrierConfig/ 
+--------------------
+- Change No.: 1477e70 | Title: Resolve NZ roaming entry | Author: Abhisek Devkota 
+
+Repository: packages/apps/Messaging/ 
+--------------------
+- Change No.: 358c6ad | Title: messaging: Filter out SIP accounts from SelectAccountDialogFragments. | Author: Adnan Begovic 
+
+Repository: packages/apps/OmniSwitch/ 
+--------------------
+- Change No.: 236127a | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/PhoneCommon/ 
+--------------------
+- Change No.: 59574f3 | Title: AmbientDataSubscription: Allow subscriptions to run different queries | Author: Stephen Bird 
+
+Repository: packages/apps/ResurrectionOTA/ 
+--------------------
+- Change No.: 1b7f8dd | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: 92401b1 | Title: Automated nightly translation import | Author: Akhil Narang 
+- Change No.: 00ed0bb | Title: fix some color values | Author: westcripp 
+- Change No.: 07c4855 | Title: update zenfone 2 Maintainer (#526) | Author: Sayeed Afridi (xda nickname : say99 ) 
+
+Repository: packages/services/Telephony/ 
+--------------------
+- Change No.: 3eeb473 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+
+-----------------
+#     06-13-2016
+-----------------
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: f6da723 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/OmniSwitch/ 
+--------------------
+- Change No.: ef90bd1 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: 0911070 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/ThemeChooser/ 
+--------------------
+- Change No.: 7f1bba6 | Title: Update sb notify vector | Author: westcripp 
+
+
+-----------------
+#     06-12-2016
+-----------------
+
+Repository: build/ 
+--------------------
+- Change No.: 74d4aca | Title: Update RR script banner | Author: westcripp 
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: 47f35a0 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/OmniSwitch/ 
+--------------------
+- Change No.: 47a87dc | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: e1d60ea | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: vendor/cm/ 
+--------------------
+- Change No.: 363f197 | Title: Update build final script | Author: westcripp 
+
+
+-----------------
+#     06-11-2016
+-----------------
+
+Repository: device/huawei/kiwi/ 
+--------------------
+- Change No.: 3f584fd | Title: Update config.xml | Author: elan33 
+- Change No.: 5fc792e | Title: Merge branch 'fingtest' of https://github.com/maxprzemo/android_device_huawei_kiwi into fingtest | Author: maxprzemo 
+
+Repository: device/qcom/common/ 
+--------------------
+- Change No.: 9e9693e | Title: power: msm8952: process_video_encode_hint returns void | Author: Ethan Chen 
+
+Repository: frameworks/base/ 
+--------------------
+- Change No.: 52b1ab2 | Title: Automated nightly translation import | Author: Akhil Narang 
+- Change No.: c695362 | Title: keyguard: SIM Display Name is now a config | Author: Marcos Marado 
+- Change No.: 1b8ad48 | Title: Framework: allow ResolverActivity to be specialized from other package | Author: Wilhelm Fitzpatrick 
+- Change No.: 2479712 | Title: UsbDeviceManager: Remove charging from persisted function composition | Author: Tom Marshall 
+- Change No.: 55e891e | Title: Revert "base: start nfc service prior to systemui" | Author: Roman Birg 
+- Change No.: 8c293a2 | Title: SystemUI: fix NFC tile sometimes hiding | Author: Roman Birg 
+- Change No.: 81e2a9d | Title: SysUI: Fix Compile | Author: Varun Date 
+
+Repository: kernel/huawei/kiwi/ 
+--------------------
+- Change No.: 4619746 | Title: Revert "kiwi: Make the hall sensor generate SW_LID on flip cover events" | Author: maxprzemo 
+
+Repository: packages/apps/Bluetooth/ 
+--------------------
+- Change No.: 072643f | Title: Bluetooth: fix opp NPE | Author: Roman Birg 
+- Change No.: 5080b9b | Title: Bluetooth OPP: Fix mismerge | Author: Roman Birg 
+- Change No.: 02d9c10 | Title: Bluetooth: Using the eventHandler to start listener | Author: Ajay Kumar 
+- Change No.: cf5fdf7 | Title: Set sJniAdapterServiceObj to NULL after deleting it | Author: Luke Zhang 
+- Change No.: acfd7c3 | Title: Bluetooth-OPP: Check URI of sending files before entry cleanup | Author: Juffin Alex Varghese 
+
+Repository: packages/apps/Dialer/ 
+--------------------
+- Change No.: 5287347 | Title: Increment nudge only after shown intent returns | Author: Stephen Bird 
+- Change No.: 6f8f504 | Title: Ensure we have permissions before rebuilding database | Author: Stephen Bird 
+
+Repository: packages/apps/Messaging/ 
+--------------------
+- Change No.: c042a5e | Title: Fixed storage permission issue for attachments Moved some audio library tab related string to cm_strings.xml | Author: Gary Kipnis 
+
+Repository: packages/apps/Nfc/ 
+--------------------
+- Change No.: 606f7ef | Title: Revert "nfc: create a bootstrap service" | Author: Roman Birg 
+- Change No.: 01ba29d | Title: Revert "Nfc: Clear transfer manager service on Destroy" | Author: Roman Birg 
+
+Repository: packages/apps/ResurrectionOTA/ 
+--------------------
+- Change No.: 4e61f73 | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: packages/apps/Settings/ 
+--------------------
+- Change No.: aba1367 | Title: Settings: use subid & imsi for MSIM apn lookups | Author: Roman Birg 
+- Change No.: 6e795f8 | Title: Use child fragment manager for nested dialog fragment | Author: Artem Shvadskiy 
+- Change No.: 369a54f | Title: Settings: Allow sorting Applications by size | Author: Roman Royer 
+- Change No.: b84b956 | Title: String improvements | Author: Michael Bestas 
+- Change No.: 37b9b8c | Title: Automated nightly translation import | Author: Akhil Narang 
+- Change No.: 1d30de5 | Title: Merge branch 'marshmallow' of https://github.com/ResurrectionRemix/Resurrection_packages_apps_Settings into marshmallow | Author: Varun Date 
+- Change No.: 44b1c64 | Title: Add samsung s4 (i9500) Mantainer (#525) | Author: ruben forner 
+- Change No.: 4730a34 | Title: Settings: temporarily hide Dotted Circle Battery | Author: Varun Date 
+
+Repository: packages/services/Telephony/ 
+--------------------
+- Change No.: 625ed3b | Title: Automated nightly translation import | Author: Akhil Narang 
+
+Repository: system/bt/ 
+--------------------
+- Change No.: c718527 | Title: bt: Unify usage of clock_gettime | Author: Christopher R. Palmer 
+- Change No.: 5365992 | Title: bt: Use the clock functions from libutils instead of clock_gettime | Author: Christopher R. Palmer 
+
+Repository: vendor/cmsdk/ 
+--------------------
+- Change No.: 55844f5 | Title: cmsdk: Add binder transaction id tests for api 5 interfaces. | Author: Adnan Begovic 
+- Change No.: f53bdbc | Title: Automatic translation import | Author: inky@build01 
+- Change No.: 2971dfa | Title: cmsdk: Provide themescontract tests. | Author: Adnan Begovic 
+- Change No.: b230fbd | Title: cmsdk: Fix redundant case in themes contract's componentToImageColName. | Author: Adnan Begovic 
+- Change No.: 7339e60 | Title: cmsdk: Add test package to CMTS targets. | Author: Adnan Begovic 
+- Change No.: 4aac2cd | Title: CMSettingsProvider: Fix defaults test for DEV_FORCE_SHOW_NAVBAR. | Author: Adnan Begovic 
+- Change No.: b42782c | Title: CMSettingsProvider: Add coverage for CMSettings' interfaces. | Author: Adnan Begovic 
+- Change No.: 1fd6ea6 | Title: cmsdk: LiveDisplay: Enforce dump permission | Author: Diogo Ferreira 
+- Change No.: 15d8aeb | Title: CMSettingsProvider: load provisioned flag when creating DB | Author: Roman Birg 
+- Change No.: 3498610 | Title: Keyguard: Get your weather on... the lock screen [2/3] | Author: d34d 
+- Change No.: 7978681 | Title: cmsdk: Provide coverage for serial number and unique device id. | Author: Adnan Begovic 
