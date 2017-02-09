@@ -1,0 +1,397 @@
+-----------------
+#     02-09-2017
+-----------------
+
+Repository: device/huawei/kiwi/ 
+--------------------
+https://github.com/maxprzemo/android_device_huawei_kiwi-1
+- Change No.: 6044e96 | Title: Add XenonHD file 	modified:   device.mk 	deleted:    lineage.mk 	modified:   overlay/frameworks/base/
+https://github.com/TeamHorizon/platform_frameworks_basecore/res/res/values/config.xml 	renamed:    lineage.dependencies -> xenonhd.dependencies 	renamed:    full_kiwi.mk -> xenonhd.mk | Author: maxprzemo 
+- Change No.: e307949 | Title: 	modified:   device.mk | Author: maxprzemo 
+
+Repository: packages/apps/Calendar/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Calendar
+- Change No.: 7315b87 | Title: Calendar: Prevent NPE | Author: Michael W 
+- Change No.: 573612e | Title: Calendar: Fix check for things to import | Author: Michael W 
+
+Repository: packages/apps/FlipFlap/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_FlipFlap
+- Change No.: b646b09 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Recorder/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Recorder
+- Change No.: 3e48f73 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: 6ee7586 | Title: wifi: Allow configuration of country code for wifi | Author: Andrew Dodd 
+
+Repository: packages/providers/TelephonyProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_TelephonyProvider
+- Change No.: 9484d15 | Title: Revert "telephony: Initialize USER_NETWORK_MODE with DEFAULT_NW_MODE" | Author: Arne Coucheron 
+
+Repository: packages/resources/devicesettings/ 
+--------------------
+https://github.com/LineageOS/android_packages_resources_devicesettings
+- Change No.: 659ccee | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: system/media/ 
+--------------------
+https://github.com/LineageOS/android_system_media
+- Change No.: 57fc1b8 | Title: audio_route: Add support to set complete byte arrays | Author: Andreas Schneider 
+
+
+-----------------
+#     02-08-2017
+-----------------
+
+Repository: frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: 9837add | Title: graphics: ADB "N" icon compatible with OMS7 | Author: George G 
+- Change No.: 6253a84 | Title: Set external QS tiles tint mode to SRC_ATOP | Author: Alex Cruz 
+- Change No.: 6caf528 | Title: Themes: Expose Keyguard affordance circle background | Author: Branden M 
+
+Repository: packages/apps/AudioFX/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_AudioFX
+- Change No.: 30d2aeb | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Bluetooth/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Bluetooth
+- Change No.: 0d12073 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: c69df87 | Title: CMParts: Clean out imports | Author: Michael W 
+
+Repository: packages/apps/Calendar/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Calendar
+- Change No.: d8743b6 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/ContactsCommon/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_ContactsCommon
+- Change No.: 43c0738 | Title: Themes: Define back arrow tint color for themes | Author: Bryan Owens 
+
+Repository: packages/apps/FlipFlap/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_FlipFlap
+- Change No.: e542752 | Title: Aquire wakelock for ringing calls | Author: Jason Riordan 
+
+Repository: packages/apps/LockClock/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_LockClock
+- Change No.: 2ccf116 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Messaging/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Messaging
+- Change No.: 2887322 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Recorder/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Recorder
+- Change No.: c3f7f8d | Title: Recorder: fix broken services on activity changes | Author: Joey Rizzoli 
+- Change No.: a645771 | Title: Recorder: add latest records cards | Author: Joey Rizzoli 
+- Change No.: 7c28074 | Title: Correctly unregister shared preference change listener. | Author: Danny Baumann 
+- Change No.: d32b39e | Title: Recorder: cleanup | Author: Danny Baumann 
+- Change No.: 27187eb | Title: Recorder: bump support libraries | Author: Joey Rizzoli 
+- Change No.: 63a278b | Title: Recorder: add play action to notifications | Author: Joey Rizzoli 
+
+Repository: packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: 5797e2b | Title: Set external settings icon tint mode to SRC_ATOP | Author: Ivan Iskandar 
+
+Repository: packages/services/Telephony/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_Telephony
+- Change No.: e984713 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: system/sepolicy/ 
+--------------------
+https://github.com/TeamHorizon/android_system_sepolicy
+- Change No.: 06ac7d1 | Title: Permit dumpstate to run "ip xfrm policy". | Author: Erik Kline 
+
+Repository: vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdksamples/weatherproviderservice/WundergroundWeatherProvider/
+- Change No.: a6fc233 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdksamples/weatherproviderservice/YahooWeatherProvider/
+- Change No.: 655b92a | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: vendor/xenonhd/ 
+--------------------
+https://github.com/TeamHorizon/vendor_xenonhd
+- Change No.: 434ac22 | Title: xenonhd: add device trees to official devices list | Author: Daniel Sikorski 
+- Change No.: 7ff612e | Title: qcom: Permit dumpstate to run "ip xfrm policy" | Author: Matt Mower 
+- Change No.: b7af87e | Title: overlay: Use round icons for apps | Author: Chris 
+
+
+-----------------
+#     02-07-2017
+-----------------
+
+Repository: packages/apps/Recorder/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Recorder
+- Change No.: 61901ce | Title: Avoid fragment state management issues. | Author: Danny Baumann 
+- Change No.: 3843e8d | Title: Recorder: fix mic request for screen recorder | Author: Joey Rizzoli 
+
+Repository: packages/apps/WallpaperPicker/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_WallpaperPicker
+- Change No.: d1bc43f | Title: WallpaperPicker: bring back cm wallpapers | Author: Joey Rizzoli 
+
+
+-----------------
+#     02-06-2017
+-----------------
+
+Repository: frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: 765f962 | Title: policy: don't allow app switch/recents key to be pressed on lockscreen | Author: Matt Filetto 
+- Change No.: efa0641 | Title: SystemUI: Fix the unlock sound played repeatedly | Author: Shufeng Hou 
+
+Repository: packages/apps/FlipFlap/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_FlipFlap
+- Change No.: f59ff2c | Title: Clean up timeout preference handling. | Author: Danny Baumann 
+- Change No.: a7489b8 | Title: FlipFlap: introduce method to completely disable FlipFlap | Author: Jason Riordan 
+
+Repository: packages/apps/WallpaperPicker/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_WallpaperPicker
+- Change No.: 6c33146 | Title: WallpaperPicker: bump gradle | Author: Joey Rizzoli 
+- Change No.: 66b854f | Title: WallpaperPicker: materialize delete icon | Author: Joey Rizzoli 
+- Change No.: 1dde84a | Title: WallpaperPicker: update icon | Author: Joey Rizzoli 
+
+Repository: packages/inputmethods/LatinIME/ 
+--------------------
+https://github.com/LineageOS/android_packages_inputmethods_LatinIME
+- Change No.: 00b7256 | Title: LatinIME: Add Hungarian QWERTY, enable predictive dictionary | Author: dh-harald 
+
+Repository: system/core/ 
+--------------------
+https://github.com/TeamHorizon/android_system_core
+- Change No.: efd1838 | Title: debuggerd: Rebrand tombstone header to LineageOS | Author: Harry Youd 
+
+Repository: vendor/xenonhd/ 
+--------------------
+https://github.com/TeamHorizon/vendor_xenonhd
+- Change No.: ccdbdca | Title: cm: charger: Correct res_create_multi_display_surface() usage | Author: Zhao Wei Liew 
+- Change No.: ee36302 | Title: LatinIME: re-add (fixed) Hungarian dictionary | Author: dh-harald 
+- Change No.: 10db2a0 | Title: xenonhd: update roomservice | Author: dadi11 
+
+
+-----------------
+#     02-05-2017
+-----------------
+
+Repository: frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: d7e65a0 | Title: policy: Long-press power while display is off for torch | Author: beanstown106 
+- Change No.: 7d8b3aa | Title: SeekBarVolumizer: Disable notification volume if RINGER_MODE_VIBRATE | Author: Danesh M 
+- Change No.: df4d624 | Title: New Crowdin translations | Author: dadi11 
+- Change No.: d59c79b | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: frameworks/opt/telephony/ 
+--------------------
+https://github.com/LineageOS/android_frameworks_opt_telephony
+- Change No.: aae108c | Title: Fix SIM detection when encrypted for older RIL | Author: Arne Coucheron 
+
+Repository: hardware/qcom/fm/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_fm
+- Change No.: 2b5386c | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/AudioFX/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_AudioFX
+- Change No.: 0e6e947 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Bluetooth/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Bluetooth
+- Change No.: a269f28 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: 0b2d2cd | Title: CMParts: Long-press power while display is off for torch | Author: beanstown106 
+- Change No.: c83b5bc | Title: New Crowdin translations | Author: dadi11 
+- Change No.: c5c9db0 | Title: CMParts: Simplify long press for torch strings | Author: Bruno Martins 
+- Change No.: 5552ce4 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Calendar/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Calendar
+- Change No.: b499a05 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/CellBroadcastReceiver/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_CellBroadcastReceiver
+- Change No.: a187c4a | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Contacts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Contacts
+- Change No.: 37fe127 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Dialer/ 
+--------------------
+https://github.com/TeamHorizon/packages_apps_Dialer
+- Change No.: 54d1ea0 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Eleven/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Eleven
+- Change No.: ee30de9 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Email/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Email
+- Change No.: 20cdcda | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/FlipFlap/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_FlipFlap
+- Change No.: 63fca1b | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Gallery2/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Gallery2
+- Change No.: 747c148 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/LockClock/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_LockClock
+- Change No.: cafbdea | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/ManagedProvisioning/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_ManagedProvisioning
+- Change No.: bb79517 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Messaging/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Messaging
+- Change No.: 8606417 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/PhoneCommon/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_PhoneCommon
+- Change No.: 4bf1b1a | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: 5c44521 | Title: New Crowdin translations | Author: dadi11 
+- Change No.: 9bd5d30 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Snap/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Snap
+- Change No.: 0f957d5 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/Terminal/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Terminal
+- Change No.: 068eaa3 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/UnifiedEmail/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_UnifiedEmail
+- Change No.: 0bdbeb6 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/apps/XenonOTA/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_XenonOTA
+- Change No.: c6a84c0 | Title: New Crowdin translations | Author: dadi11 
+
+Repository: packages/providers/DataUsageProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_DataUsageProvider
+- Change No.: 6981666 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/providers/DownloadProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_DownloadProvider
+- Change No.: 4da4543 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/providers/MediaProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_MediaProvider
+- Change No.: a64c9b8 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/resources/devicesettings/ 
+--------------------
+https://github.com/LineageOS/android_packages_resources_devicesettings
+- Change No.: f8073ff | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/services/CMAudioService/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_CMAudioService
+- Change No.: 6dad83d | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/services/Telecomm/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_Telecomm
+- Change No.: 1369ae3 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/services/Telephony/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_Telephony
+- Change No.: a34ea3c | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/services/WeatherService/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_WeatherService
+- Change No.: d3f16b2 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: packages/wallpapers/LivePicker/ 
+--------------------
+https://github.com/LineageOS/android_packages_wallpapers_LivePicker
+- Change No.: 5acf0e7 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: system/extras/su/ 
+--------------------
+https://github.com/LineageOS/android_system_extras_su
+- Change No.: d30f4ad | Title: su: don't crash on SIGPIPE while passing return code to client | Author: Unpublished 
+
+Repository: vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdk
+- Change No.: dad48e6 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdksamples/weatherproviderservice/WundergroundWeatherProvider/
+- Change No.: 97dc85c | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdksamples/weatherproviderservice/YahooWeatherProvider/
+- Change No.: 1efd29a | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository: vendor/xenonhd/ 
+--------------------
+https://github.com/TeamHorizon/vendor_xenonhd
+- Change No.: cf2251a | Title: cm: Enable long-press on power in suspend by default | Author: Zhao Wei Liew 
+- Change No.: 9fa8c86 | Title: xenonhd: add armani and Z00ED | Author: Daniel Sikorski 
+
+
