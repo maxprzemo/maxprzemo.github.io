@@ -2,27 +2,55 @@
 #     06-01-2016
 -----------------
 
-Repository: android/ 
---------------------
-- Change No.: 8d3d350 | Title: Track Own DUtils Package | Author: Varun Date 
 
-Repository: external/DUtils/ 
+Repozytorium : frameworks/base/ Strona Repozytorium : https://github.com/TeamHorizon/platform_frameworks_base 
 --------------------
-- Change No.: 2737cf3 | Title: DUtils: Add app picker as an action (1/2) | Author: LorDClockaN 
-- Change No.: 7bf118f | Title: Revert "DUI: Use DocumentsProvider API helper methods [2/2]" | Author: Varun Date 
+- Zmiana Nr.: 9837add11d604f39488b68264d48bc54d8147164 | Tytuł: graphics: ADB "N" icon compatible with OMS7 | Autor: George G 
+- Zmiana Nr.: 6253a84c040484e435fc1a3a6816c587d2fe1d2e | Tytuł: Set external QS tiles tint mode to SRC_ATOP | Autor: Alex Cruz 
+- Zmiana Nr.: 6caf5287b0bf471bd045fce7b95030ae78853026 | Tytuł: Themes: Expose Keyguard affordance circle background | Autor: Branden M 
 
-Repository: frameworks/base/ 
+Repozytorium : packages/apps/AudioFX/ Strona Repozytorium : https://github.com/LineageOS/android_packages_apps_AudioFX 
 --------------------
-- Change No.: f226787 | Title: Automated nightly translation import | Author: Akhil Narang 
-- Change No.: 295f1bc | Title: Custom header : Add new Get Resurrected smart layer header - Header accent matching with the installed theme accent color - Edit header titles - Fix header sizes | Author: westcripp 
-- Change No.: 4def768 | Title: Core: Fix OOB | Author: Michael W 
-- Change No.: bbb7131 | Title: am: clear state for every protected app invocation. | Author: Adnan Begovic 
-- Change No.: 93c9712 | Title: services: Kick off to CMSystemServer for external service init. | Author: Adnan Begovic 
-- Change No.: 1e27560 | Title: fw: reintroduce PRIVATE_FLAG_PREVENT_POWER_KEY | Author: Scott Mertz 
-- Change No.: 49be41a | Title: SysUI: Add App Picker Navbar Icon | Author: Varun Date 
-- Change No.: f3d5011 | Title: Add animations to quick settings tiles [1/2] | Author: Nico60 
-- Change No.: 55c1eb5 | Title: Qs: Default Reduce Default Animation Duration | Author: Varun Date 
-- Change No.: a4de996 | Title: Custom headers : Add PitchBlack smart layer header & fixed others | Author: westcripp 
+- Zmiana Nr.: 30d2aeb37e9ddc6a04271b9559da13b081b54b37 | Tytuł: Automatic translation import | Autor: Abhisek Devkota 
+
+Repozytorium : packages/apps/Bluetooth/ Strona Repozytorium : https://github.com/LineageOS/android_packages_apps_Bluetooth 
+--------------------
+- Zmiana Nr.: 0d12073b6ef2b361deb6b2faf0a830ae58c520cf | Tytuł: Automatic translation import | Autor: Abhisek Devkota 
+
+Repozytorium : packages/apps/CMParts/ Strona Repozytorium : https://github.com/TeamHorizon/android_packages_apps_CMParts 
+--------------------
+- Zmiana Nr.: c69df8747d9edab0a7d2faaf2f494d419b87487a | Tytuł: CMParts: Clean out imports | Autor: Michael W 
+
+Repozytorium : packages/apps/Calendar/ Strona Repozytorium : https://github.com/LineageOS/android_packages_apps_Calendar 
+--------------------
+- Zmiana Nr.: d8743b6d58929e7c608958cbaefbff6c11839eea | Tytuł: Automatic translation import | Autor: Abhisek Devkota 
+
+Repozytorium : packages/apps/ContactsCommon/ Strona Repozytorium : https://github.com/TeamHorizon/android_packages_apps_ContactsCommon 
+--------------------
+- Zmiana Nr.: 43c07383708e2ad2febd8c7dfcfd963acf64e743 | Tytuł: Themes: Define back arrow tint color for themes | Autor: Bryan Owens 
+
+Repozytorium : packages/apps/FlipFlap/ Strona Repozytorium : https://github.com/LineageOS/android_packages_apps_FlipFlap 
+--------------------
+- Zmiana Nr.: e5427528550a282bc2b2f59208f69e0253229584 | Tytuł: Aquire wakelock for ringing calls | Autor: Jason Riordan 
+
+Repozytorium : packages/apps/LockClock/ Strona Repozytorium : https://github.com/LineageOS/android_packages_apps_LockClock 
+--------------------
+- Zmiana Nr.: 2ccf116085353cdecf9446271230789f003f4efa | Tytuł: Automatic translation import | Autor: Abhisek Devkota 
+
+Repozytorium : packages/apps/Messaging/ Strona Repozytorium : https://github.com/LineageOS/android_packages_apps_Messaging 
+--------------------
+- Zmiana Nr.: 2887322381d717920a56b7a4d37bcd36d8e7832e | Tytuł: Automatic translation import | Autor: Abhisek Devkota 
+
+Repozytorium : packages/apps/Recorder/ Strona Repozytorium : https://github.com/LineageOS/android_packages_apps_Recorder 
+--------------------
+- Zmiana Nr.: 61901ce7253e28d790bc97761c7dc4509b423f43 | Tytuł: Avoid fragment state management issues. | Autor: Danny Baumann 
+- Zmiana Nr.: 3843e8d460819b81e925d3143a543e8813745238 | Tytuł: Recorder: fix mic request for screen recorder | Autor: Joey Rizzoli 
+- Zmiana Nr.: c3f7f8ddc9938655ce9e52081f20285f0b2c8d1e | Tytuł: Recorder: fix broken services on activity changes | Autor: Joey Rizzoli 
+- Zmiana Nr.: a645771d93a21fa65230e3f93489d73b878a8750 | Tytuł: Recorder: add latest records cards | Autor: Joey Rizzoli 
+- Zmiana Nr.: 7c280744005e97e3d1cfbf4af621307a07959095 | Tytuł: Correctly unregister shared preference change listener. | Autor: Danny Baumann 
+- Zmiana Nr.: d32b39ec0b860a7a7961bb198bf4aa9f56fb56d7 | Tytuł: Recorder: cleanup | Autor: Danny Baumann 
+- Zmiana Nr.: 27187ebd0ab22023049b4604fa48df51a6d0a651 | Tytuł: Recorder: bump support libraries | Autor: Joey Rizzoli 
+- Zmiana Nr.: 63a278bb5b328f11a986582399c881c5a363c94e | Tytuł: Recorder: add play action to notifications | Autor: Joey Rizzoli
 
 Repository: frameworks/native/ 
 --------------------
