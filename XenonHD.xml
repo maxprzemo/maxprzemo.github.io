@@ -18,7 +18,7 @@
             <OpenGappsUrl
                 id="opengapps"
                 title="Open Gapps"
-                description="Download Open Gapps">http://opengapps.org</OpenGappsUrl>
+                description="Download Open Gapps">http://opengapps.org/?api=7.1&variant=nano</OpenGappsUrl>
         </kiwi>
     </Stable>
 </XenonOTA>
