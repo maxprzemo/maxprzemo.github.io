@@ -4,37 +4,34 @@
 
 Repozytorium : packages/apps/Calendar/ 
 --------------------
-Strona Repozytorium : https://github.com/LineageOS/android_packages_apps_Calendar 
---------------------
+https://github.com/LineageOS/android_packages_apps_Calendar
 - Zmiana Nr.: 7315b87c3b03b1e2198d614ddce140a0901564cb | Tytuł: Calendar: Prevent NPE | Autor: Michael W 
 - Zmiana Nr.: 573612e897cfe55775334d9d26d8a552c58467f2 | Tytuł: Calendar: Fix check for things to import | Autor: Michael W 
 
 Repozytorium : packages/apps/FlipFlap/ 
 --------------------
-Strona Repozytorium : https://github.com/LineageOS/android_packages_apps_FlipFlap 
---------------------
+https://github.com/LineageOS/android_packages_apps_FlipFlap
 - Zmiana Nr.: b646b099e8e7f20b2e74091003e0e2eb9622afb7 | Tytuł: Automatic translation import | Autor: Abhisek Devkota 
 
 Repozytorium : packages/apps/Recorder/ 
 --------------------
-Strona Repozytorium : https://github.com/LineageOS/android_packages_apps_Recorder 
---------------------
+https://github.com/LineageOS/android_packages_apps_Recorder
 - Zmiana Nr.: 3e48f73d739606b4fda97869f0b9d850bb283d38 | Tytuł: Automatic translation import | Autor: Abhisek Devkota 
-- Zmiana Nr.: 3e48f73d739606b4fda97869f0b9d850bb283d38 | Tytuł: Automatic translation import | Autor: Abhisek Devkota  Branden M 
 
-Repozytorium : packages/apps/AudioFX/ Strona Repozytorium : https://github.com/LineageOS/android_packages_apps_AudioFX 
+Repozytorium : packages/apps/Settings/ 
 --------------------
-- Zmiana Nr.: 30d2aeb37e9ddc6a04271b9559da13b081b54b37 | Tytuł: Automatic translation import | Autor: Abhisek Devkota 
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Zmiana Nr.: 6ee7586ee5a1aea8b1d2125aef3146c491345c50 | Tytuł: wifi: Allow configuration of country code for wifi | Autor: Andrew Dodd 
 
-Repozytorium : packages/apps/Bluetooth/ Strona Repozytorium : https://github.com/LineageOS/android_packages_apps_Bluetooth 
+Repozytorium : packages/providers/TelephonyProvider/ 
 --------------------
-- Zmiana Nr.: 0d12073b6ef2b361deb6b2faf0a830ae58c520cf | Tytuł: Automatic translation import | Autor: Abhisek Devkota 
+https://github.com/LineageOS/android_packages_providers_TelephonyProvider
+- Zmiana Nr.: 9484d1581074d142e781388c37b24df059538c0d | Tytuł: Revert "telephony: Initialize USER_NETWORK_MODE with DEFAULT_NW_MODE" | Autor: Arne Coucheron 
 
-Repozytorium : packages/apps/CMParts/ Strona Repozytorium : https://github.com/TeamHorizon/android_packages_apps_CMParts 
+Repozytorium : packages/resources/devicesettings/ 
 --------------------
-- Zmiana Nr.: c69df8747d9edab0a7d2faaf2f494d419b87487a | Tytuł: CMParts: Clean out imports | Autor: Michael W 
-
-Repozytorium : packages/apps/Calendar/ Strona Repozytorium : https://github.com/LineageOS/android_packages_apps_Calendar 
+https://github.com/LineageOS/android_packages_resources_devicesettings
+- Zmiana Nr.: 659ccee7acf60f432f212b367419ead715107fd6 | Tytuł: Automatic translation import | Autor: Abhisek Devkota
 --------------------
 - Zmiana Nr.: d8743b6d58929e7c608958cbaefbff6c11839eea | Tytuł: Automatic translation import | Autor: Abhisek Devkota 
 
