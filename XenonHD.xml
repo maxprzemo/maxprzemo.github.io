@@ -11,7 +11,7 @@
                 id="changelog"
                 title="Changelog"
                 description="View the latest changelog"></ChangelogUrl>
-                        <ChangelogDevUrl
+            <ChangelogDevUrl
                 id="changelogdev"
                 title="Changelog Honor 5X"
                 description="View Honor 5X builds Changelog"></ChangelogDevUrl>
