@@ -2,7 +2,7 @@
 <XenonOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kiwi>
-            <Filename>XenonHD-170205-Unofficial-kiwi.zip</Filename>
+            <Filename>XenonHD-170211-Unofficial</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
